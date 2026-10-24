@@ -1,0 +1,15 @@
+# Các phiên bản đã test (2026-10). Cài bằng setup.bat (Windows), script này tự cài torch bản CPU trước.
+# Tự cài tay:  python -m pip install torch==2.14.1 --index-url https://download.pytorch.org/whl/cpu
+#              python -m pip install -r requirements.txt
+gymnasium[atari]==1.4.0
+ale-py==0.12.1
+numpy==2.4.6
+opencv-python-headless==5.0.0.93
+pygame==2.6.1
+matplotlib==3.11.2
+tensorboard==2.21.0
+
+# Boxing 2 người: lõi ALE hỗ trợ người chơi thứ 2.
+# PyPI chỉ có bản Linux/macOS -> Windows dùng bản build sẵn trong wheels/ (cách build: tools/build_windows_wheel/BUILD.md)
+./wheels/multi_agent_ale_py-0.1.12-py3-none-win_amd64.whl ; sys_platform == "win32"
+multi_agent_ale_py==0.1.12 ; sys_platform != "win32"

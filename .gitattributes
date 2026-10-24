@@ -1,0 +1,5 @@
+*.pt binary
+*.whl binary
+*.mp4 binary
+*.png binary
+*.bat text eol=crlf
