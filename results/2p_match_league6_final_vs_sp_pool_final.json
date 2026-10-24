@@ -1,0 +1,175 @@
+{
+  "a": "league6/final",
+  "b": "sp_pool/final",
+  "games": 20,
+  "mean": 0.05,
+  "std": 0.49749371855331004,
+  "win": 0.05,
+  "draw": 0.9,
+  "loss": 0.05,
+  "ko": 0.0,
+  "mean_as_white": 0.1,
+  "mean_as_black": 0.0,
+  "detail": [
+    {
+      "a_side": "white",
+      "a_return": 0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7138,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7115,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7131,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 2.0,
+      "a_points": 2.0,
+      "b_points": 0.0,
+      "frames": 7137,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7126,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7121,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7134,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7113,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7112,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": -1.0,
+      "a_points": 2.0,
+      "b_points": 3.0,
+      "frames": 7112,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7121,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7111,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7118,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7126,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7127,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7136,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7139,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7128,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7115,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -0.0,
+      "a_points": 0.0,
+      "b_points": 0.0,
+      "frames": 7132,
+      "ko": false
+    }
+  ]
+}

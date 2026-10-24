@@ -1,0 +1,38 @@
+{
+  "random": {
+    "steps": 8917,
+    "hit_steps": 143,
+    "enemy_near_rope_pct": 22.45149714029382,
+    "enemy_near_rope_when_hit_pct": 17.482517482517483,
+    "mean_dx": 29.37153751261635,
+    "mean_dy": 11.007401592463832,
+    "hit_mean_dx": 22.272727272727273,
+    "hit_mean_dy": 15.72027972027972,
+    "fire_action_pct": 49.81496018840417,
+    "top_actions": {
+      "DOWNLEFT": 6.1,
+      "UP": 6.0,
+      "DOWNRIGHT": 6.0,
+      "UPRIGHTFIRE": 5.9,
+      "UPRIGHT": 5.8
+    }
+  },
+  "ppo": {
+    "steps": 6387,
+    "hit_steps": 414,
+    "enemy_near_rope_pct": 31.188351338656645,
+    "enemy_near_rope_when_hit_pct": 32.125603864734295,
+    "mean_dx": 33.463754501330826,
+    "mean_dy": 12.335994989823078,
+    "hit_mean_dx": 22.084541062801932,
+    "hit_mean_dy": 18.043478260869566,
+    "fire_action_pct": 25.94332237357132,
+    "top_actions": {
+      "DOWNLEFT": 29.9,
+      "DOWNRIGHTFIRE": 14.3,
+      "UPLEFT": 12.4,
+      "UPRIGHTFIRE": 11.4,
+      "UPRIGHT": 8.9
+    }
+  }
+}

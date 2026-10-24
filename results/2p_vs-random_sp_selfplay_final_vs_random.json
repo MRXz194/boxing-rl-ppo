@@ -1,0 +1,175 @@
+{
+  "a": "sp_selfplay/final",
+  "b": "random",
+  "games": 20,
+  "mean": -9.85,
+  "std": 8.984848357095405,
+  "win": 0.15,
+  "draw": 0.05,
+  "loss": 0.8,
+  "ko": 0.0,
+  "mean_as_white": -12.2,
+  "mean_as_black": -7.5,
+  "detail": [
+    {
+      "a_side": "white",
+      "a_return": -7.0,
+      "a_points": 14.0,
+      "b_points": 21.0,
+      "frames": 7138,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": -11.0,
+      "a_points": 10.0,
+      "b_points": 21.0,
+      "frames": 7115,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 9.0,
+      "a_points": 20.0,
+      "b_points": 11.0,
+      "frames": 7131,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": -21.0,
+      "a_points": 22.0,
+      "b_points": 43.0,
+      "frames": 7137,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": -21.0,
+      "a_points": 3.0,
+      "b_points": 24.0,
+      "frames": 7126,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": -14.0,
+      "a_points": 15.0,
+      "b_points": 29.0,
+      "frames": 7121,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": -21.0,
+      "a_points": 15.0,
+      "b_points": 36.0,
+      "frames": 7134,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": -11.0,
+      "a_points": 11.0,
+      "b_points": 22.0,
+      "frames": 7113,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": -23.0,
+      "a_points": 20.0,
+      "b_points": 43.0,
+      "frames": 7112,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": -2.0,
+      "a_points": 10.0,
+      "b_points": 12.0,
+      "frames": 7112,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -6.0,
+      "a_points": 16.0,
+      "b_points": 22.0,
+      "frames": 7121,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -11.0,
+      "a_points": 19.0,
+      "b_points": 30.0,
+      "frames": 7111,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -13.0,
+      "a_points": 19.0,
+      "b_points": 32.0,
+      "frames": 7118,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -0.0,
+      "a_points": 20.0,
+      "b_points": 20.0,
+      "frames": 7126,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -16.0,
+      "a_points": 26.0,
+      "b_points": 42.0,
+      "frames": 7127,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -18.0,
+      "a_points": 14.0,
+      "b_points": 32.0,
+      "frames": 7136,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -14.0,
+      "a_points": 6.0,
+      "b_points": 20.0,
+      "frames": 7139,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": 2.0,
+      "a_points": 11.0,
+      "b_points": 9.0,
+      "frames": 7128,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -3.0,
+      "a_points": 10.0,
+      "b_points": 13.0,
+      "frames": 7115,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": 4.0,
+      "a_points": 19.0,
+      "b_points": 15.0,
+      "frames": 7132,
+      "ko": false
+    }
+  ]
+}

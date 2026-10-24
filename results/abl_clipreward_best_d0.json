@@ -1,0 +1,290 @@
+{
+  "agent": "ppo",
+  "model": "models/abl_clipreward/best.pt",
+  "difficulty": 0,
+  "episodes": 30,
+  "deterministic": true,
+  "mean_return": 23.5,
+  "std_return": 9.297849213662266,
+  "min_return": -4.0,
+  "max_return": 38.0,
+  "win_rate": 0.9666666666666667,
+  "draw_rate": 0.0,
+  "loss_rate": 0.03333333333333333,
+  "ko_rate": 0.0,
+  "mean_player_points": 58.666666666666664,
+  "mean_cpu_points": 35.166666666666664,
+  "eval_seconds": 51.2,
+  "episodes_detail": [
+    {
+      "return": -4.0,
+      "player_points": 45.0,
+      "cpu_points": 49.0,
+      "frames": 7141,
+      "win": false,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 30.0,
+      "player_points": 57.0,
+      "cpu_points": 27.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 23.0,
+      "player_points": 58.0,
+      "cpu_points": 35.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 19.0,
+      "player_points": 50.0,
+      "cpu_points": 31.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 5.0,
+      "player_points": 53.0,
+      "cpu_points": 48.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 23.0,
+      "player_points": 67.0,
+      "cpu_points": 44.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 36.0,
+      "player_points": 68.0,
+      "cpu_points": 32.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 27.0,
+      "player_points": 56.0,
+      "cpu_points": 29.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 13.0,
+      "player_points": 53.0,
+      "cpu_points": 40.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 21.0,
+      "player_points": 52.0,
+      "cpu_points": 31.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 29.0,
+      "player_points": 63.0,
+      "cpu_points": 34.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 28.0,
+      "player_points": 66.0,
+      "cpu_points": 38.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 19.0,
+      "player_points": 59.0,
+      "cpu_points": 40.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 35.0,
+      "player_points": 66.0,
+      "cpu_points": 31.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 33.0,
+      "player_points": 63.0,
+      "cpu_points": 30.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 38.0,
+      "player_points": 64.0,
+      "cpu_points": 26.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 12.0,
+      "player_points": 53.0,
+      "cpu_points": 41.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 31.0,
+      "player_points": 59.0,
+      "cpu_points": 28.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 24.0,
+      "player_points": 65.0,
+      "cpu_points": 41.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 27.0,
+      "player_points": 53.0,
+      "cpu_points": 26.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 28.0,
+      "player_points": 62.0,
+      "cpu_points": 34.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 20.0,
+      "player_points": 68.0,
+      "cpu_points": 48.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 27.0,
+      "player_points": 52.0,
+      "cpu_points": 25.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 25.0,
+      "player_points": 61.0,
+      "cpu_points": 36.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 33.0,
+      "player_points": 61.0,
+      "cpu_points": 28.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 14.0,
+      "player_points": 58.0,
+      "cpu_points": 44.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 28.0,
+      "player_points": 62.0,
+      "cpu_points": 34.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 30.0,
+      "player_points": 61.0,
+      "cpu_points": 31.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 12.0,
+      "player_points": 55.0,
+      "cpu_points": 43.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    },
+    {
+      "return": 19.0,
+      "player_points": 50.0,
+      "cpu_points": 31.0,
+      "frames": 7141,
+      "win": true,
+      "draw": false,
+      "ko_win": false
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+global_step,vs_random_mean,vs_random_win_rate,vs_cpu_mean,vs_cpu_win_rate
+250880,5.25,1.0,87.0,1.0
+500736,2.25,0.5,74.0,1.0
+750592,-3.75,0.0,67.5,1.0

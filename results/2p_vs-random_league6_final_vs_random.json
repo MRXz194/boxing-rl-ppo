@@ -1,0 +1,255 @@
+{
+  "a": "league6/final",
+  "b": "random",
+  "games": 30,
+  "mean": 7.366666666666666,
+  "std": 4.895462751932197,
+  "win": 0.9333333333333333,
+  "draw": 0.0,
+  "loss": 0.06666666666666667,
+  "ko": 0.0,
+  "mean_as_white": 8.733333333333333,
+  "mean_as_black": 6.0,
+  "detail": [
+    {
+      "a_side": "white",
+      "a_return": 13.0,
+      "a_points": 14.0,
+      "b_points": 1.0,
+      "frames": 7138,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 8.0,
+      "a_points": 11.0,
+      "b_points": 3.0,
+      "frames": 7115,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 14.0,
+      "a_points": 19.0,
+      "b_points": 5.0,
+      "frames": 7131,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 17.0,
+      "a_points": 21.0,
+      "b_points": 4.0,
+      "frames": 7137,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 12.0,
+      "a_points": 20.0,
+      "b_points": 8.0,
+      "frames": 7126,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 2.0,
+      "a_points": 4.0,
+      "b_points": 2.0,
+      "frames": 7121,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 2.0,
+      "a_points": 6.0,
+      "b_points": 4.0,
+      "frames": 7134,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 11.0,
+      "a_points": 12.0,
+      "b_points": 1.0,
+      "frames": 7113,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 3.0,
+      "a_points": 16.0,
+      "b_points": 13.0,
+      "frames": 7112,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 8.0,
+      "a_points": 11.0,
+      "b_points": 3.0,
+      "frames": 7112,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 11.0,
+      "a_points": 18.0,
+      "b_points": 7.0,
+      "frames": 7121,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 15.0,
+      "a_points": 27.0,
+      "b_points": 12.0,
+      "frames": 7111,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 2.0,
+      "a_points": 4.0,
+      "b_points": 2.0,
+      "frames": 7118,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 11.0,
+      "a_points": 18.0,
+      "b_points": 7.0,
+      "frames": 7126,
+      "ko": false
+    },
+    {
+      "a_side": "white",
+      "a_return": 2.0,
+      "a_points": 4.0,
+      "b_points": 2.0,
+      "frames": 7127,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": 7.0,
+      "a_points": 12.0,
+      "b_points": 5.0,
+      "frames": 7136,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": 3.0,
+      "a_points": 3.0,
+      "b_points": 0.0,
+      "frames": 7139,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": 9.0,
+      "a_points": 17.0,
+      "b_points": 8.0,
+      "frames": 7128,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": 15.0,
+      "a_points": 18.0,
+      "b_points": 3.0,
+      "frames": 7115,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": 1.0,
+      "a_points": 4.0,
+      "b_points": 3.0,
+      "frames": 7132,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": 7.0,
+      "a_points": 17.0,
+      "b_points": 10.0,
+      "frames": 7111,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": 4.0,
+      "a_points": 13.0,
+      "b_points": 9.0,
+      "frames": 7120,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": 7.0,
+      "a_points": 7.0,
+      "b_points": 0.0,
+      "frames": 7120,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": 6.0,
+      "a_points": 10.0,
+      "b_points": 4.0,
+      "frames": 7135,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": 9.0,
+      "a_points": 17.0,
+      "b_points": 8.0,
+      "frames": 7118,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": 11.0,
+      "a_points": 17.0,
+      "b_points": 6.0,
+      "frames": 7120,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -1.0,
+      "a_points": 10.0,
+      "b_points": 11.0,
+      "frames": 7124,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": 8.0,
+      "a_points": 8.0,
+      "b_points": 0.0,
+      "frames": 7137,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": -1.0,
+      "a_points": 4.0,
+      "b_points": 5.0,
+      "frames": 7126,
+      "ko": false
+    },
+    {
+      "a_side": "black",
+      "a_return": 5.0,
+      "a_points": 12.0,
+      "b_points": 7.0,
+      "frames": 7135,
+      "ko": false
+    }
+  ]
+}
