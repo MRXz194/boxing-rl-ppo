@@ -1,0 +1,12 @@
+# môi trường & công cụ cục bộ
+.venv/
+.claude/
+__pycache__/
+*.pyc
+dist/
+_build_tools/
+# log nặng / tạm
+logs/**/events.out.tfevents*
+logs/queue/
+results/_*.json
+videos/_*.mp4
